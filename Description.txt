@@ -1,0 +1,3 @@
+Two classic 8-bit platform games :-) See Readme!.txt for more information. Have fun! (~250 KB). Keywords: classic 8-bit game clone 'Manic Miner' 'Jet Set Willy'<br><br>
+First release: 4/15/2006 (MM), 7/13/2006 (JSW).<br>
+Last update: 01/16/2012
