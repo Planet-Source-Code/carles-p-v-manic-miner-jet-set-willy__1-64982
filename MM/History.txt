@@ -1,0 +1,18 @@
+
+ History:
+
+  1.0.0: First release
+
+  1.0.1: - All music and sound FXs using FMOD (3.75)
+
+  1.0.2: - Fixed pause mode: did not *pause* tune if
+           enabled
+
+  1.0.3: - Fixed Willy's movement keys control!
+         - Fixed interframe just-landing/start-walking
+
+  1.1.0: - Full screen support
+         - FPS info
+
+  1.2.0: - Improved green & B&W palettes
+

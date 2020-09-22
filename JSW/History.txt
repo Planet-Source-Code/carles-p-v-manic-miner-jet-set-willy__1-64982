@@ -1,0 +1,45 @@
+
+ History:
+
+  1.0.0: First release.
+
+  1.0.1: - Fixed pause mode: did not *pause* tune when
+           enabled.
+         - Fall counter initialization on a particular
+           situation (only affects sound FX).
+         - Max. fall counter adjustment on 'bottom'
+         - Exit (falling): affects max. fall.
+
+  1.0.2: - Max. fall counter adjustment on 'bottom'
+         - Exit (falling): affects max. fall (16px more!)
+
+  1.0.3: - Jumping from rope: couldn't jump verticaly.
+           Jump has to face right/left.
+         - Exit (falling): affects max. fall (16px more!)
+
+  1.0.4: - First *frame* after *died* checks for arrows,
+           guardians, etc. (see check label in DoWilly())
+         - Fixed Willy's movement keys control
+         - Fixed interframe just-landing/start-walking
+
+  1.0.5: - Sorry if someone has tried to finish this!
+           There is a bug in original game which has not
+           been fixed here: data exported was from
+           *unfixed* version.
+           The bug is related to an unreachable (and
+           invisible) item located at 'First Landing'
+           room; the fix relocates it at 'The Hall'
+           but it still remains not visible.
+           I realized this trying to finish the game
+           (cheating, obviously).
+
+  1.0.6: - Fixed checking for scalator (added checking
+           for conveyor in both checks for slope, too).
+
+  1.0.7: - Fixed guardian checking in room 29: dib used for
+           pixel collision was Willy's one, not 'pig' one.
+
+  1.1.0: - Full screen support
+         - FPS info
+
+  1.2.0: - Improved green & B&W palettes
